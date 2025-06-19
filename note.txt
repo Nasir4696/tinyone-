@@ -1,0 +1,92 @@
+custom
+  css
+  js
+Framwork-
+utility file-- class support/extra css
+reboot file-- content support
+grid file-- layout support
+
+Responsive  website layout
+
+Using CSS media query 
+Layout with 8 images
+      flot
+      grid 
+      flex
+
+
+
+Wrapper/container
+screen size
+total- 6
+Extra Small
+Small
+Medium
+Large
+Extra large
+Extra Extra large
+media query
+
+
+
+phd to html/phd to bootstrap
+
+html/css/bootstrap/js.jq
+
+font family - 'PT Sans', sans-serif,
+
+color- black #010101
+      #313841
+      #555555
+     ash- #898989
+     yellow- #fcdb00
+ptsans-
+  bold, regular
+
+  ============
+  xxl 1440
+  xxl 1200
+  lg  1024
+
+  me  768
+  Sm  576
+  col 320
+
+header--------
+
+  xxl,xl,lg            md          sm,col
+
+menu      22                22
+
+slider----------
+       
+       xxl,xl,lg            md          sm,col
+h1      32                  32            25
+h2       20                 20             18
+p        16                  16            16/15
+p/botm   100                100            60
+icon      42               42               35
+
+
+Padding---------
+         xxl,xl,lg -100 to 120 , md-80, 
+         sm/col-50 to 70
+
+
+header-- top-20     botoom -20
+
+
+Feature
+Padding- 
+    xxl,xl,lg            md          sm,col
+
+pt- 120                  80            50
+
+pb- 120                  100           70
+
+h1  32                   32            25
+p   20                   20            17
+
+icon  50                 50              
+h2   22                  22              20
+p   16                   16              16
